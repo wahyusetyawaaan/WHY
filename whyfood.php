@@ -9,11 +9,11 @@ $headers[] = 'X-Location: -6.405821,106.064193';
 
         echo "\n";
         echo "\e[92m••••••••••••••••••••••••••••••••••••••••••\n";
-        echo "\e[92m             SCRIPT BY WHY               \n";
-        echo "\e[92m                 vist me            \n";
-        echo "\e[92m         https://wahyusetyawan.id/    \n";
-        echo "\e[92m           GOJEK AUTO REGIST   \n";
-        echo "\e[92m         GOODLUCK AND ENJOY :)                  \n";
+        echo "\e[92m             SCRIPT BY WHY                \n";
+        echo "\e[92m                 vist me                  \n";
+        echo "\e[92m         https://wahyusetyawan.id/        \n";
+        echo "\e[92m           GOJEK AUTO REGIST              \n";
+        echo "\e[92m         GOODLUCK AND ENJOY :)            \n";
         echo "\e[92m••••••••••••••••••••••••••••••••••••••••••\n";
         echo "\n";
         ulang:
