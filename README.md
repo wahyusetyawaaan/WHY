@@ -1,14 +1,18 @@
-#Gojek Auto Register & Save Token
-install
-$pkg install curl
+# Gojek Auto Register & Save Token 
 
-$pkg install php
+# install
 
-$pkg install git
+  $pkg install curl
 
-$git clone https://github.com/wahyusetyawaaan/WHY
+  $pkg install php
 
-#use
+  $pkg install git
+
+  $git clone https://github.com/wahyusetyawaaan/WHY
+
+# use 
+
 $cd WHY
 
 $php whyfood.php
+
